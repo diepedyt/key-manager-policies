@@ -14,6 +14,10 @@ Check that Patreon is connected to the Discord account you are using. Provider u
 
 ## Privacy or deletion requests
 
+To opt out of message processing, send **`!privacy off` in a DM to Key Manager** and wait for **Message processing is off**. Your normal messages will no longer run commands or enter the bot's message cache. Feedback forms are paused and pending drafts are removed. The bot still reads the short privacy controls: `!privacy` checks your setting and `!privacy on` restores processing. Your choice is saved across restarts. Use the configured command prefix if it differs from `!`.
+
+If a command or report is already finishing, wait and retry. If saving fails, your previous setting still applies; contact the operator if this continues. Claim buttons remain usable while opted out. Opting out does not cancel a subscription, stop Patreon membership refreshes, or delete existing service records or reports already submitted. For those records or other privacy requests, contact the operator below.
+
 You can send this message privately to the operator:
 
 > Hello, I would like to request access to, correction of, or deletion of my Key Manager data. My Discord user ID is [your Discord user ID]. My request is [describe the request]. Please let me know what account verification is needed and whether this affects my linked benefits.

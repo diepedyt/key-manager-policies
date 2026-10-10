@@ -38,7 +38,7 @@ Feedback submitted through the bot is delivered to designated staff channels tog
 
 ## Privacy
 
-The **Key Manager Privacy Policy**, published alongside these terms, explains the information handled by the bot, external integrations, retention and privacy requests. Contact the operator for access, correction or deletion requests. Privacy requests are handled manually; the bot has no automatic deletion command.
+The **Key Manager Privacy Policy**, published alongside these terms, explains the information handled by the bot, external integrations, retention and privacy requests. DM `!privacy off` to opt out of message processing, `!privacy` to check the setting or `!privacy on` to restore it. These controls use the bot's configured prefix, normally `!`. Contact the operator for access, correction or deletion requests; these are handled manually and the bot has no automatic deletion command.
 
 ## Availability and support
 
